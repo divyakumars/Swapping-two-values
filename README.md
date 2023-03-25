@@ -19,6 +19,9 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
+#Program to swap two values.
+#Developed by : Divya.K
+#RegisterNumber : 212222230035
 x=int(input())
 y=int(input())
 t=x
@@ -28,10 +31,8 @@ print('Swapped values are:',x,y)
 
 ```
 OUTPUT:
+![save](https://user-images.githubusercontent.com/119393621/227698295-5dfa1c07-597e-4fcb-8cff-b873bf2da7c5.png)
 
-
-
-![Screenshot 2023-03-24 110057](https://user-images.githubusercontent.com/119393621/227433984-ff08f8f6-1716-44d5-8322-440992319adc.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
